@@ -23,7 +23,6 @@ services:
         - user=www
       dockerfile: Dockerfile
     volumes:
-      # - ./src:/var/www
       - ./php:/usr/local/etc/php/conf.d
     working_dir: /var/www
     ports:
