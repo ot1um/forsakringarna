@@ -61,7 +61,7 @@
         <div class="space-between">
             <a href="/hemforsakring" class="link-box">
                 <h3>Hemförsäkring</h3>
-                <img class="lazy" src="/img/placeholder.png" data-src="/assets/img/260x160/hemforsakring.jpg" alt="Hemförsäkring">
+                <img class="lazy" src="/img/placeholder.png" data-src="/assets/img/260x160/batforsakring.jpg" alt="Hemförsäkring">
             </a>
             <a href="/villaforsakring" class="link-box">
                 <h3>Villaförsäkring</h3>
