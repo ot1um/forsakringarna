@@ -61,7 +61,7 @@
         <div class="space-between">
             <a href="/hemforsakring" class="link-box">
                 <h3>Hemförsäkring</h3>
-                <img class="lazy" src="/img/placeholder.png" data-src="/assets/img/260x160/batforsakring.jpg" alt="Hemförsäkring">
+                <img class="lazy" src="/img/placeholder.png" data-src="/assets/img/260x160/hemforsakring_mini.jpg" alt="Hemförsäkring">
             </a>
             <a href="/villaforsakring" class="link-box">
                 <h3>Villaförsäkring</h3>
@@ -77,7 +77,7 @@
             </a>
             <a href="/hundforsakring" class="link-box">
                 <h3>Hundförsäkring</h3>
-                <img class="lazy" src="/img/placeholder.png" data-src="/assets/img/260x160/hundforsakring.jpg" alt="Hundförsäkring">
+                <img class="lazy" src="/img/placeholder.png" data-src="/assets/img/260x160/hundforsakring-mini.jpg" alt="Hundförsäkring">
             </a>
             <a href="/foretagsforsakring" class="link-box">
                 <h3>Företagsförsäkring</h3>
