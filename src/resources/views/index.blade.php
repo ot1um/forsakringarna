@@ -85,7 +85,7 @@
             </a>
             <a href="/olycksfallsforsakring" class="link-box">
                 <h3>Olycksfallsförsäkring</h3>
-                <img class="lazy" src="/img/placeholder.png" data-src="/assets/img/260x160/olycksfallsforsakring.jpg" alt="Olycksfallsförsäkring">
+                <img class="lazy" src="/img/placeholder.png" data-src="/assets/img/260x160/olycksfallsforsakring-mini.jpg" alt="Olycksfallsförsäkring">
             </a>
             <a href="/inkomstforsakring" class="link-box">
                 <h3>Inkomstförsäkring</h3>
