@@ -34,6 +34,7 @@ RUN mkdir -p /home/www/.composer && \
 WORKDIR /var/www
 
 COPY ./src /var/www/
+#COPY ./nginx/*.pem /etc/nginx/conf.d/
 RUN chown -R www:www /var/www
 
 RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/bin --filename=composer
